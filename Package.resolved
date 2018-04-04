@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ErrorTypes",
+        "repositoryURL": "https://github.com/AmaranthineTech/ErrorTypes.git",
+        "state": {
+          "branch": null,
+          "revision": "7137f7c0064fa0ed1624c7e90d1b7c1a80620c84",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
